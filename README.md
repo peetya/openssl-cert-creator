@@ -1,5 +1,8 @@
 # openssl-cert-creator
 
+_Source: [Stackoverflow](https://stackoverflow.com/a/43666288)_
+
+## How to use
 - create a root authority cert
 
 `./create_root_cert_and_key.sh`
